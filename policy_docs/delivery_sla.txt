@@ -1,0 +1,21 @@
+DELIVERY SERVICE LEVEL AGREEMENT
+
+Standard Delivery Targets:
+- Metro cities (Sao Paulo, Rio de Janeiro): 3-5 business days
+- State capitals: 5-8 business days  
+- Other cities: 7-12 business days
+
+Sellers are required to dispatch orders within 2 business days of order 
+confirmation. Failure to dispatch within this window may result in 
+seller performance penalties.
+
+Late Delivery Compensation: If delivery exceeds the estimated delivery 
+date shown at checkout by more than 5 days, customer is eligible for 
+a shipping cost refund.
+
+High-Risk Categories for Delay: Furniture and large electronics due to 
+size/weight handling requirements. Customers ordering from these 
+categories should expect delivery toward the higher end of the SLA window.
+
+Carrier Performance: Sellers using carriers with delivery success rate 
+below 90% over a rolling 30-day period are flagged for review.

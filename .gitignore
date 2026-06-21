@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+.gradio/
+data/olist_*.csv
+data/silver_master.csv
+data/visible_order_ids.csv
+test_chart_categories.html
+test_chart_city.html
+test_chart_trend.html
