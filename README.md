@@ -105,6 +105,17 @@ this prevents hallucinated numbers in the final answer.
 
 ---
 
+## Screenshots
+
+**Lookup Query**
+![Lookup example](assets/lookup_example.png)
+
+**Root Cause Analysis**
+![Root cause example](assets/rootcause_example.png)
+
+**Document/Policy Search**
+![Document search example](assets/document_search_example.png)
+
 ## Project Structure
 agent_project/
 
